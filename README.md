@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 
-# 👩‍💻 Aebon Lee | AI & Education Specialist
+# 👩‍💻 SeungSik Kim | AI & Education Specialist
 
 **"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자"**
 
@@ -9,7 +9,7 @@
 
 ## 🧩 About Me
 
-안녕하세요! 저는 **26년 경력의 실무형 교육자/개발자/기획자**로 
+안녕하세요! 저는 **경력의 실무형 교육자/개발자/기획자**로 되기 위해 공부 하고 있는 김승식입니다.
 
 
 
